@@ -1,4 +1,4 @@
-## Hello!
+Hello!
 
 I'm Luke, a Cornell student studying Computer Science.
 
