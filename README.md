@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello
+
+I'm Luke, a Cornell student studying Computer Science.
+
+Feel free to contact me at lys8@cornell.edu. 
 
 <!--
 **Luke5hao/Luke5hao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
